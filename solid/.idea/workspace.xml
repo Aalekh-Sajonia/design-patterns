@@ -29,7 +29,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.ISP.js">
+  <component name="RunManager" selected="Node.js.DIP.js">
+    <configuration name="DIP.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DIP.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="ISP.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ISP.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -44,6 +47,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.DIP.js" />
         <item itemvalue="Node.js.ISP.js" />
         <item itemvalue="Node.js.LSP.js" />
         <item itemvalue="Node.js.OCP.js" />
@@ -59,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604228401401</updated>
-      <workItem from="1604228402727" duration="5323000" />
+      <workItem from="1604228402727" duration="7510000" />
     </task>
     <servers />
   </component>
@@ -67,22 +71,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="300" key="GridCell.Tab.0.bottom" timestamp="1604237264366">
+    <state width="1362" height="162" key="GridCell.Tab.0.bottom" timestamp="1604243970782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604237264366" />
-    <state width="1362" height="300" key="GridCell.Tab.0.center" timestamp="1604237264366">
+    <state width="1362" height="162" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604243970782" />
+    <state width="1362" height="162" key="GridCell.Tab.0.center" timestamp="1604243970782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="300" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604237264366" />
-    <state width="1362" height="300" key="GridCell.Tab.0.left" timestamp="1604237264365">
+    <state width="1362" height="162" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604243970782" />
+    <state width="1362" height="162" key="GridCell.Tab.0.left" timestamp="1604243970782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="300" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604237264365" />
-    <state width="1362" height="300" key="GridCell.Tab.0.right" timestamp="1604237264366">
+    <state width="1362" height="162" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604243970782" />
+    <state width="1362" height="162" key="GridCell.Tab.0.right" timestamp="1604243970782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="300" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604237264366" />
+    <state width="1362" height="162" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604243970782" />
     <state width="1362" height="300" key="GridCell.Tab.1.bottom" timestamp="1604237264366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

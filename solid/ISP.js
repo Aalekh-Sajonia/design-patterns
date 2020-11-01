@@ -55,8 +55,7 @@ class Submarine extends Entity {
     }
 }
 
-Object.assign(Car.prototype,run);
-
+Object.assign(Car,run);
 const nano = new Car('Nano');
 nano.run();
 // nano.swim(); will give error
